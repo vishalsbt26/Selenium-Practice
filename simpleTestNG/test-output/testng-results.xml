@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-10T09:36:11 IST" name="Default suite" finished-at="2022-02-10T09:37:06 IST" duration-ms="55151">
+    <groups>
+    </groups>
+    <test started-at="2022-02-10T09:36:11 IST" name="Default test" finished-at="2022-02-10T09:37:06 IST" duration-ms="55151">
+      <class name="com.vk.naveenTest.loginData">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:11 IST" name="setUp" finished-at="2022-02-10T09:36:18 IST" duration-ms="6699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:18 IST" name="loginTest" data-provider="getLoginData" finished-at="2022-02-10T09:36:19 IST" duration-ms="1664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:19 IST" name="tearDown" finished-at="2022-02-10T09:36:20 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:20 IST" name="setUp" finished-at="2022-02-10T09:36:28 IST" duration-ms="8590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:28 IST" name="loginTest" data-provider="getLoginData" finished-at="2022-02-10T09:36:37 IST" duration-ms="8765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:37 IST" name="tearDown" finished-at="2022-02-10T09:36:37 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:37 IST" name="setUp" finished-at="2022-02-10T09:36:42 IST" duration-ms="5216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:42 IST" name="loginTest" data-provider="getLoginData" finished-at="2022-02-10T09:36:44 IST" duration-ms="1320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prod]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prod123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:44 IST" name="tearDown" finished-at="2022-02-10T09:36:44 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:44 IST" name="setUp" finished-at="2022-02-10T09:36:58 IST" duration-ms="13990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:36:58 IST" name="loginTest" data-provider="getLoginData" finished-at="2022-02-10T09:37:05 IST" duration-ms="7551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vishal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vishal123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vk.naveenTest.loginData@25fb8912]" started-at="2022-02-10T09:37:05 IST" name="tearDown" finished-at="2022-02-10T09:37:06 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vk.naveenTest.loginData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
